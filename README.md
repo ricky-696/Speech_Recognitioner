@@ -1,3 +1,3 @@
-# Speech_Recognitioner
+# Speech_Recognizer
  
 大學多媒體課程期末作業，語音辨識助理
